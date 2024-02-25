@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 25190fbbebba13b4280bdc4762c3cff1, type: 3}
+  m_Name: FractionsData
+  m_EditorClassIdentifier: 
+  <Fractions>k__BackingField:
+  - <Fraction>k__BackingField: 0
+    <TowerColor>k__BackingField: {r: 0.17254902, g: 0.53333336, b: 0.8509804, a: 1}
+    <UnitsColor>k__BackingField: {r: 0.17254902, g: 0.53333336, b: 0.8509804, a: 1}
+    <RoadColor>k__BackingField: {r: 0.41708788, g: 0.6998407, b: 0.9528302, a: 1}
+  - <Fraction>k__BackingField: 1
+    <TowerColor>k__BackingField: {r: 0.827451, g: 0.27058825, b: 0.35686275, a: 1}
+    <UnitsColor>k__BackingField: {r: 0.827451, g: 0.27058825, b: 0.35686275, a: 1}
+    <RoadColor>k__BackingField: {r: 0.9528302, g: 0.39910996, b: 0.49139684, a: 1}
+  - <Fraction>k__BackingField: 2
+    <TowerColor>k__BackingField: {r: 0.4862745, g: 1, b: 0.54901963, a: 1}
+    <UnitsColor>k__BackingField: {r: 0.4862745, g: 1, b: 0.54901963, a: 1}
+    <RoadColor>k__BackingField: {r: 0.45660377, g: 1, b: 0.52452826, a: 1}
+  - <Fraction>k__BackingField: 3
+    <TowerColor>k__BackingField: {r: 1, g: 0.9137255, b: 0.49803922, a: 1}
+    <UnitsColor>k__BackingField: {r: 1, g: 0.9137255, b: 0.49803922, a: 1}
+    <RoadColor>k__BackingField: {r: 0.9811321, g: 0.8641006, b: 0.4479886, a: 1}
+  - <Fraction>k__BackingField: 4
+    <TowerColor>k__BackingField: {r: 0.92941177, g: 0.92941177, b: 0.92941177, a: 1}
+    <UnitsColor>k__BackingField: {r: 0.92941177, g: 0.92941177, b: 0.92941177, a: 1}
+    <RoadColor>k__BackingField: {r: 0.92941177, g: 0.92941177, b: 0.92941177, a: 1}
